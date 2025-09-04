@@ -6,14 +6,14 @@ Aspiring Data Engineer | Data Analytics & Machine Learning Enthusiast
 
 ---
 
-## 🚀 About Me  
+## About Me  
 -  Currently learning **Azure Data Engineering** and **Big Data tools**  
 - Interested in **Data Engineering**, **Machine Learning**, and **Cloud Platforms (Azure, AWS, GCP)**  
 - Goal: To design and implement end-to-end data solutions for real-world applications  
 
 ---
 
-## 🛠️ Skills & Tools  
+## Skills & Tools  
 - **Programming:** Python, R, SQL  
 - **Databases:** PostgreSQL, MySQL, Azure SQL  
 - **Data Engineering:** Apache Spark, Flink, Docker, ETL Pipelines  
@@ -22,17 +22,17 @@ Aspiring Data Engineer | Data Analytics & Machine Learning Enthusiast
 
 ---
 
-## 📂 Projects  
+## Projects  
 - 🔹 **[bootcamp-data_eng](https://github.com/EriPardali/bootcamp-data_eng)**  
   Data Engineering Bootcamp exercises & projects using **Spark, Flink, Docker, PostgreSQL**.  
   Focus on ETL pipelines, streaming data, and cloud storage.  
 
 ---
 
-## 🌐 Connect with Me  
-- 📧 Email: pardalieri@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/eri-pardali/)  
-- 🐙 [GitHub](https://github.com/EriPardali)  
+##  Connect with Me  
+-  Email: pardalieri@gmail.com  
+-  [LinkedIn](https://www.linkedin.com/in/eri-pardali/)  
+-  [GitHub](https://github.com/EriPardali)  
 
 <!--
 **EriPardali/EriPardali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
