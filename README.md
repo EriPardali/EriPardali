@@ -2,7 +2,7 @@
 
 🎓 MSc in Business Administration, Analytics & Information Systems – National and Kapodistrian University of Athens  
 Aspiring Data Engineer | Data Analytics & Machine Learning Enthusiast  
-📊 Passionate about transforming raw data into insights and building scalable pipelines.  
+ Passionate about transforming raw data into insights and building scalable pipelines.  
 
 ---
 
