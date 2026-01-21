@@ -1,14 +1,14 @@
-👋 Hi, I’m Eleftheria Pardali  
+ Hi, I’m Eleftheria Pardali  
 
-🎓 MSc in Business Administration, Analytics & Information Systems – National and Kapodistrian University of Athens  
+ MSc in Business Administration, Analytics & Information Systems – National and Kapodistrian University of Athens  
 Aspiring Data Engineer | Data Analytics & Machine Learning Enthusiast  
  Passionate about transforming raw data into insights and building scalable pipelines.  
 
 ---
 
 ## About Me  
--  Currently learning **Azure Data Engineering** and **Big Data tools**  
-- Interested in **Data Engineering**, **Machine Learning**, and **Cloud Platforms (Azure, AWS, GCP)**  
+-  Currently working at KPMG Greece  
+- Interested in **Data Engineering**, **Machine Learning**, and **Cloud Platforms **  
 - Goal: To design and implement end-to-end data solutions for real-world applications  
 
 ---
